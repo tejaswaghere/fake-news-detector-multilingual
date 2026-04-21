@@ -4,7 +4,7 @@ A transformer-based fake news detection system fine-tuned on MuRIL
 (Multilingual Representations for Indian Languages) by Google.
 
 ## 🚀 Live Demo
-[Try it on HuggingFace Spaces](#) ← we'll update this link after deployment
+[Try it on HuggingFace Spaces](#) 
 
 ## 📌 Project Highlights
 - Fine-tuned `google/muril-base-cased` on the ISOT fake news dataset
