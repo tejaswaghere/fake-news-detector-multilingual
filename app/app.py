@@ -5,7 +5,7 @@ import re
 
 # ── 1. Load model and tokenizer ──────────────────────────────────────────────
 # We load from the local model/final/ folder — no internet needed
-MODEL_PATH = '/content/drive/MyDrive/fake-news-detector/model/final/'
+MODEL_PATH = '/content/drive/MyDrive/fake-news-detector/model/final_v2/'
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
 model = AutoModelForSequenceClassification.from_pretrained(MODEL_PATH)
