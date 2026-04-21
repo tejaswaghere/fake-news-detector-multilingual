@@ -1,0 +1,14 @@
+# Data
+data/raw/
+data/processed/
+
+# Model weights
+model/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
